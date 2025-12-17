@@ -1,0 +1,7 @@
+* {box-sizing: border-box;}
+body {margin: 20px; /* margin around entire layout */padding: 0;font-family: Arial;}
+header {background: pink;padding: 20px;text-align: center;margin-bottom: 20px;}
+.sidebar {float: left;width: 30%;background: yellow;padding: 4%;margin-right: 5%;}
+.main {float: left;width: 65%;background: purple;padding: 4%;}
+.clear {clear: both;}
+footer {background: grey ;padding: 20px;text-align: center;margin-top: 20px;}
